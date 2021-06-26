@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-This is the game made by Shuvam Paul and Anurag Baruah of the Birla High School,Kolkata.
+This is the game made by Shuvam Paul and Anurag Baruah of Birla High School,Kolkata.
 
 To launch the game from the main source code, launch the maingame.py file.
 
